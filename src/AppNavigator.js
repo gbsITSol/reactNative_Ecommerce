@@ -36,6 +36,8 @@ const AppNavigator = () => {
       <Stack.Screen name="OrderSuccess" component={OrderSuccess} options={{headerShown : true}} />
       <Stack.Screen name="Main" component={Main} options={{headerShown : false}} />
       <Stack.Screen name="Order" component={Order} options={{headerShown : true}} />
+      <Stack.Screen name="Order" component={Order} options={{headerShown : true}} />
+      <Stack.Screen name="Order" component={Order} options={{headerShown : true}} />
 
 
 
